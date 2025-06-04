@@ -20,6 +20,7 @@ Implements a 'Line' class ith endpoints, length, and gradient calculations.
 --------------------------------------------------------------------------------------
 
 ## Problem 2: Date
+[Problem 2 - Date](./Problem2_Date)
 
 **Files:**
 - 'Date.java'
@@ -31,6 +32,7 @@ Encapsulates date data with getter/setter methods and formatting.
 --------------------------------------------------------------------------------------
 
 ## Problem 3: Time
+[Problem 3 - Time](./Problem3_Time)
 
 **Files:**
 - 'Time.java'
