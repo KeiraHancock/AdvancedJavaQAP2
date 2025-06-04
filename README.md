@@ -44,10 +44,12 @@ Each folder contains a '.java' file and a 'Test' class. To run:
 
 In Terminal:
 javac Class.java TestClass.java
+
 java TestClass
 
 Example for Time Problem:
 javac Time.java TestTime.java
+
 java TestTime
 
 --------------------------------------------------------------------------------------
