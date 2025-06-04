@@ -1,6 +1,6 @@
 # Advanced Java QAP2
-# Author: Keira Hancock
-# Keyin College - Software Development 
+## Author: Keira Hancock
+## Keyin College - Software Development 
 
 This project contains solutions to three problems involving class creation and testing in Java. Each problem includes a main class and a corresponding test class to demonstrate functionality.
 
