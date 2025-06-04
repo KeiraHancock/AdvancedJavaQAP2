@@ -9,6 +9,7 @@ This project contains solutions to three problems involving class creation and t
 **Files:**
 - 'MyLine.java'
 - 'TestMyLine.java'
+- 'MyPoint.Java'
 
 **Description:**
 Implements a 'Line' class ith endpoints, length, and gradient calculations.
